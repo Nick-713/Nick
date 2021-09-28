@@ -1,5 +1,5 @@
-# Porfólio 
-## refatorando antigo porfólio
+# portfólio
+## refatorando antigo portfólio
 ### Etapas: 
 - [x] layout base
 
