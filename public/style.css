@@ -110,11 +110,9 @@ body {
 .profilePic {
   max-width: 20vw;
   padding: 10px;
+  border-radius: 50%;
 }
-
 
 .profileText * {
   padding: 10px;
 } 
-
-
